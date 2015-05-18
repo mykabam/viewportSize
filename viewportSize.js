@@ -1,4 +1,4 @@
-﻿/*! viewportSize | Author: Tyson Matanich, 2013 | License: MIT */
+/*! viewportSize | Author: Tyson Matanich, 2013 | License: MIT */
 (function (window) {
 
 	window.viewportSize = {};
